@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe.config
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.exe
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\bin\Debug\KayitDefteri.pdb
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.Form1.resources
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.Properties.Resources.resources
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.exe
+C:\Users\Administrator\source\repos\KayitDefteri\KayitDefteri\obj\Debug\KayitDefteri.pdb
